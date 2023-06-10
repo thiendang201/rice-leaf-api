@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": "Ny2FhAmFY0iBJAXP5YdBKg",
+    "type": "pest",
+    "name": "Bệnh đốm nâu"
+  },
+  "2": {
+    "id": "53CeHh1XOkuS896f9nnsmg",
+    "type": "healthy",
+    "name": "Không có bệnh"
+  },
+  "3": {
+    "id": "Ic7SekWzkEqY5XPkZwjURQ",
+    "type": "pest",
+    "name": "Bọ gai hại lúa"
+  },
+  "4": {
+    "id": "JFIGhtLVSU2fwTUA8uI3ww",
+    "type": "pest",
+    "name": "Bệnh đạo ôn"
+  }
+}
