@@ -1,0 +1,9 @@
+fastjsonschema==2.16.2
+joblib==1.2.0
+jsonschema==4.17.0
+numpy==1.23.4
+opencv-python==4.6.0.66
+pandas==1.5.1
+scikit-image
+fastapi
+uvicorn[standard]

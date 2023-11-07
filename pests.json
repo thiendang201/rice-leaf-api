@@ -1,22 +1,45 @@
 {
   "1": {
-    "id": "Ny2FhAmFY0iBJAXP5YdBKg",
-    "type": "pest",
-    "name": "Bệnh đốm nâu"
+    "ma_sau_benh": "Ny2FhAmFY0iBJAXP5YdBKg",
+    "loai_sau_benh": "co_benh",
+    "ten_sau_benh": "Bệnh đốm nâu",
+    "hinh_anh": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cochliobolus_miyabeanus.jpg",
+      "https://www.gardeningknowhow.com/wp-content/uploads/2018/11/brown-leaf-spot-rice.jpg",
+      "https://www.kissanghar.pk/assets/img/insect_blogs/40371820220606214.png"
+    ],
+    "trieu_chung": "Vết bệnh trên lá ban đầu là những chấm nhỏ màu nâu nhạt, sau đó phát triển thành các vết bệnh màu nâu đậm hơn. Ở giống lúa kháng bệnh, đốm bệnh hẹp, ngắn, màu nâu đậm có kích thước từ 2 - 10x1 mm; với những giống nhiễm bệnh, đốm bệnh dài và rộng hơn, có màu nâu nhạt hơn và ở giữa có màu sáng. Tổng thể đốm bệnh thường có màu nâu đỏ, ở mép lá màu nhạt hơn nên ruộng bị nhiễm nặng có màu đỏ rực. Vết bệnh gây hại trên hạt có màu nâu, sau biến màu đen. Nấm bệnh tồn tại trên hạt và là nguồn bệnh cho vụ sau.",
+    "nguyen_nhan": "- Bệnh có thể do vài loại nấm gây ra, nhưng chủ yếu vẫn là hai loài nấm có tên là Helminthosporium oryzae và nấm Curvularia lunata. \n- Loài nấm thứ nhất gây ra triệu chứng là ban đầu vết bệnh chỉ nhỏ như đầu mũi kim màu nâu nhạt sau lớn rộng dần ra thành hình bầu dục nhỏ, gần giống như hạt mè, có màu nâu, nâu đậm ở cả hai mặt vết bệnh, xung quanh thường có quầng vàng rất nhỏ. Nếu điều kiện thuận lợi cho bệnh thì vết bệnh lớn hơn, ngược lại nếu thời tiết không thuận lợi cho bệnh thì vết bệnh có kích thước nhỏ hơn (trước đây gọi là bệnh tiêm lửa).\n - Loài nấm thứ hai gây ra triệu chứng là vết bệnh hình sọc ngắn hoặc không định hình màu nâu tím hoặc nâu xám, cũng có khi là những chấm nhỏ gần tròn màu nâu, nâu tím hoặc nâu xám. Ở trên hạt vết bệnh là những vết tròn nhỏ gần giống vết bệnh do loại nấm thứ nhất gây ra (trước đây gọi là bệnh đốm nâu hay vết nâu).",
+    "phong_ngua_va_giai_phap": "Để hạn chế tác hại của bệnh có thể áp dụng kết hợp nhiều biện pháp, trong đó chủ yếu là những biện pháp canh tác (đặc biệt là phân bón và nước) tạo điều kiện thuân lợi cho cây lúa sinh trưởng, phát triển tốt, tăng sức chống chịu với bệnh từ đó hạn chế tác hại do bệnh gây ra. Sau đây là một số biện pháp chính: \n- Cày bừa, xới xáo làm đất kỹ (trừ những chân đất có tầng phèn nằm cạn, dễ bị xì phèn khi làm đất), những ruộng đất bạc màu, đất cát cần bón nhiều phân chuồng để cải tạo và tăng cường chất dinh dưỡng cho đất. \n- Không nên gieo sạ quá dày, dễ làm lúa thiếu thức ăn sinh trưởng, phát triển kém, bệnh dễ phát sinh. \n- Những ruộng bị nhiễm phèn hoặc dư thừa xác hữu cơ cần tăng cường bón thêm vôi bột, phân lân... để thúc đẩy nhanh quá trình phân hủy chất hữu cơ và nâng cao độ pH cho đất, tạo điều kiện cho cây lúa sinh trưởng và phát triển tốt. \n- Phải luôn cung cấp đầy đủ nước cho ruộng lúa, nhất là vào đầu vụ Hè Thu thời tiết khô hạn, nếu thiếu nước phèn từ tầng đất dưới sẽ xì lên tầng canh tác gây ngộ độc rễ làm cây lúa sinh trưởng kém, tạo điều kiện cho bệnh tấn công. \n- Phải bón đầy đủ và cân đối giữa đạm lân và kali (nhất là với những giống phàm ăn), tuyệt đối không được để cây lúa thiếu đạm, thiếu dinh dưỡng sẽ sinh trưởng phát triển kém. \nNgoài những biện pháp trên đây, để hạn chế bệnh truyền qua vụ sau thông qua con đường hạt giống và tàn dư cây trồng, các bạn nên thực hiện một số biện pháp sau: \n- Sau khi thu hoạc lúa cần vệ sinh đồng ruộng sạch sẽ, thu dọn sạch tàn dư cây lúa để hạn chế nguồn bệnh ban đầu lan truyền cho vụ sau. \n- Không lấy lúa ở những ruộng vụ trước đã bị nhiễm bệnh nặng để làm giống cho vụ sau. Trước khi ngâm ủ phải phơi khô, quạt thật sạch để loại bỏ hết những hạt lép lửng (là những hạt mang nhiều nấm bệnh). \n- Do nấm bệnh tồn tại ngay trên vỏ trấu vì thế để diệt trừ một cách triệt để nguồn bệnh ban đầu lây nhiễm cho vụ sau, trước khi ngâm ủ các bạn phải xử lý giống bằng nước nóng 540C sau đó vớt ra đãi sạch rồi đem ủ bình thường. \nCùng với những biện pháp trên, khi ruộng lúa có biểu hiện bị bệnh có thể sử dụng một trong các loại thuốc có tác dụng phổ rộng như Tilt Super 300EC, AmistarTop 325SC, Mixperfect 525SC,… để phòng trừ."
   },
   "2": {
-    "id": "53CeHh1XOkuS896f9nnsmg",
-    "type": "healthy",
-    "name": "Không có bệnh"
+    "ma_sau_benh": "53CeHh1XOkuS896f9nnsmg",
+    "loai_sau_benh": "khong_co_benh",
+    "ten_sau_benh": "Không có bệnh"
   },
   "3": {
-    "id": "Ic7SekWzkEqY5XPkZwjURQ",
-    "type": "pest",
-    "name": "Bọ gai hại lúa"
+    "ma_sau_benh": "Ic7SekWzkEqY5XPkZwjURQ",
+    "loai_sau_benh": "co_benh",
+    "ten_sau_benh": "Bọ gai hại lúa",
+    "hinh_anh": [
+      "https://camo.githubusercontent.com/2de09cf26766badf564ceba04309630358d48d35d5f6fc7c06400af5ee260467/68747470733a2f2f636f6e74656e742e706561742d636c6f75642e636f6d2f68642f726963652d68697370612d2d312e6a7067",
+      "https://content.peat-cloud.com/thumbnails/rice-hispa-rice-1553250919.jpg"
+    ],
+    "trieu_chung": " Bọ trưởng thành ăn bên ngoài biểu bì lá ở mặt trên, gây ra triệu chứng đặc trưng là các dải trắng chạy song song dọc theo trục chính của lá. Trong trường hợp nhiễm nặng, ngay cả các gân lá cũng bị ảnh hưởng, dẫn đến tình trạng xuất hiện các vết trắng lớn. Bọ trưởng thành thường xuất hiện trên các lá bị tổn thương, phần lớn ở mặt trên của lá. Ấu trùng ăn các mô màu xanh giữa hai lớp biểu bì của lá, đào hang dọc theo gân lá và gây ra các mảng trắng. Chúng ta có thể được nhìn thấy được chúng khi soi lá bị nhiễm bệnh dưới ánh sáng hoặc lướt dọc ngón tay theo đường hang. Các lớp bị nhiễm bọ khô đi, khiến cánh đồng có vẻ bạc trắng. Nhìn từ xa, các cánh đồng bị nhiễm bọ nặng trông như bị cháy bạc. ",
+    "nguyen_nhan": " Thiệt hại nêu trên xuất phát từ bọ trưởng thành và ấu trùng của loài bọ gai hại lúa có tên khoa học là Dicladispa armigera. Bọ trưởng thành nạo mặt trên của phiến lá để lộ ra lớp biểu bì bên dưới. Chúng đẻ trứng bên trong các khe nhỏ của lá mềm, thường là ở chóp lá. Ấu trùng bọ có dạng dẹt, màu vàng ngả trắng. Chúng ăn bên trong mô lá bằng cách đào hang dọc theo trục lá, và sau đó phát triển thành nhộng bên trong lá. Bọ trưởng thành có hình dạng hơi vuông vắn, có chiều dài và chiều rộng độ 3-5 mm. Chúng có màu xanh sẫm hay đen, với các gai phủ khắp thân. Cỏ dại mọc đầy, bón quá nhiều phân, mưa lớn và độ ẩm tương đối cao là điều kiện thuận lợi cho quá trình nhiễm loại bọ gai hại lúa này. ",
+    "phong_ngua_va_giai_phap": "- Không có giống lúa đề kháng hiệu quả đối với loài bọ này. \n- Áp dụng khoảng cách cấy mạ hẹp hơn với mật độ lá phủ dày hơn có thể chịu đựng được số lượng bọ nhiều hơn. \n- Trồng sớm trong vụ mùa để tránh đỉnh điểm phát triển số lượng quần thể của bọ. \n- Cắt đỉnh chồi để ngăn bọ đẻ trứng. \n- Thu thập bọ trưởng thành bằng vợt lưới vào lúc sáng sớm khi bọ ít di chuyển. \n- Loại bỏ bất cứ loài cỏ dại nào ra khỏi cánh đồng chưa canh tác. \n- Các lá và chồi đã bị nhiễm bọ cần được cắt và đốt bỏ, hay chôn bọ dưới bùn. \n- Tránh bón phân đạm quá nhiều ở những cánh đồng bị nhiễm bọ. \n- Áp dụng luân canh để phá vỡ vòng đời của loài bọ bệnh này. "
   },
   "4": {
-    "id": "JFIGhtLVSU2fwTUA8uI3ww",
-    "type": "pest",
-    "name": "Bệnh đạo ôn"
+    "ma_sau_benh": "JFIGhtLVSU2fwTUA8uI3ww",
+    "loai_sau_benh": "co_benh",
+    "ten_sau_benh": "Bệnh đạo ôn",
+    "hinh_anh": [
+      "https://www.dpi.nsw.gov.au/__data/assets/image/0009/798750/RiceBlast1.jpg",
+      "https://bugwoodcloud.org/images/768x512/5538910.jpg",
+      "https://c8.alamy.com/zooms/9/24fd52ace1ca46f38d0b2b0bd41c25cc/afxhn7.jpg"
+    ],
+    "trieu_chung": "Bệnh hại ở các bộ phận trên cây nhưng rõ nhất trên lá, cổ bông, đốt thân. \n- Trên lá lúa: vết bệnh ban đầu là những chấm nhỏ màu xanh xám nhạt(hay gọi xanh dọt dầu loang). Về sau vết bệnh lớn dần có hình thoi, rộng ở phần giữa, nhọn ở 2 đầu, ở giữa vết bệnh màu xám tro, xung quanh nâu đậm, phần tiếp giáp với mô khỏe có màu nâu nhạt. Khi bệnh nặng các vết bệnh nối liền nhau làm cho lá bị cháy, nơi bị nhiễm nặng có thể bị cháy trụi hoàn toàn, bộ rễ bị thối và lúa không hồi phục \n- Trên đốt thân: vết bệnh màu nâu bao quanh đốt thân làm đốt khô, teo lại. Các đốt thân gần gốc bị mục ra làm cho gốc bị gãy đổ. \n- Cổ bông, cổ gié: vết bệnh ban đầu là một chấm nhỏ màu đen đoạn cổ giáp tai lá về sau lớn dần làm cổ bông héo, bông lúa trắng hoặc lép lửng. \n- Trên hạt: Vết bệnh không định hình, có màu nâu xám. Nấm đen ký sinh ở vỏ trấu và có thể ở bên trong hạt. Hạt giống bị bệnh là nguồn truyền bệnh sang vụ khác.",
+    "nguyen_nhan": "Bệnh do nấm Pyricularin gây ra. Nấm tồn tại trên tàn dư cây trồng, lúa chét, cỏ dại. Bào tử thường phát sinh vào ban đêm. Tính gây bệnh thay đổi tùy theo giống và vùng địa lý. Trong điều kiện ẩm độ cao số bào tử mọc ra rất nhiều. \n Quá trình gây hại: khi gặp điều kiện thuận lợi về nhiệt độ, ẩm độ nấm sẽ xâm nhập vào cây, nấm tiết ra một số độc tố như axit - picolinic và chất Pyricularin có tác dụng kìm hãm hô hấp và phân hủy các enzyme chứa kim loại của cây, kìm hãm sự sinh trưởng của cây lúa. Nấm đạo ôn tồn tại ở dạng sợi nấm, bào tử trong rơm rạ và hạt giống bị bệnh. Ngoài ra nấm còn tồn tại trên ký chủ phụ mọc quanh ruộng như các loài cỏ lồng vực, đuôi phụng, cỏ chỉ, lúa ma, lúa mọc lại gốc rạ-lúa chét…sinh trưởng phát triển quanh năm. Trong điều kiện khô ráo bào tử có thể sống hơn một năm, sợi nấm sống gần 3 năm.",
+    "phong_ngua_va_giai_phap": "- Điều tra, phát hiện và phân tích các điều kiện liên quan đến sự phát sinh của bệnh, như thời tiết, giống cây. Điều này giúp đưa ra biện pháp phòng trừ hiệu quả. \n - Dọn sạch tàn dư rơm rạ và cỏ dại trên đồng ruộng, vì chúng có thể mang mầm bệnh. Gieo cấy giống cây kháng hoặc chống chịu với bệnh đạo ôn. Kiểm tra và xử lý giống cây ở nhiệt độ thích hợp. Điều chỉnh mật độ gieo, cấy phù hợp. Bón phân với tỉ lệ cân đối, tập trung bón nhiều ở giai đoạn đầu cây lúa. \n- Không để ruộng khô hạn, không sử dụng phân đạm, phân bón lá và thuốc kích thích sinh trưởng khi cây bị bệnh đạo ôn. Nếu sau khi phun thuốc mà vẫn còn vết bệnh trên lá non, cần phun thuốc lần 2 sau 5-7 ngày. \n- Giữ mực nước đầy đủ trên mặt ruộng theo nhu cầu nước của cây lúa. Tránh để ruộng khô nước khi bệnh đạo ôn xảy ra. \n- Thăm đồng thường xuyên để phát hiện kịp thời khi bệnh bắt đầu xuất hiện. \n- Đối với bệnh đạo ôn cổ lá và cổ bông, cần theo dõi chặt chẽ thời gian cây lúa vào giai đoạn trổ. Khi trỗ gặp điều kiện thuận lợi cho bệnh phát triển (nhiệt độ dưới 28°C, tiết trời râm mát, có mưa nhỏ hoặc mưa rào), cần phun thuốc phòng trừ trước khi lúa trổ 5-7 ngày. \n- Với các ruộng lúa xanh tốt, thừa đạm khi trỗ 20-30%, gặp gió mùa Đông Bắc muộn, thường hay bị bệnh đạo ôn cổ bông. Sử dụng các thuốc đặc hiệu như Beam 75WP, Filia 525SC, Kabim 30WP, Trizole... và tuân thủ nguyên tắc phun thuốc đú"
   }
 }
